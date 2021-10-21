@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vedang Jadhav
-- 👀 I’m interested in creating seamless and efficient services
-- 🌱 I’m currently learning more about micro-services
+👋 Hi, I’m Vedang Jadhav
+I’m interested in creating efficient backend services
+I’m currently learning more about micro-services
 
 <!---
 jvedang/jvedang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
